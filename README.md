@@ -1,6 +1,6 @@
 # Offline CheatBreaker
 
-[![Releases](https://img.shields.io/github/release/Offline-CheatBreaker/Client.svg)](https://github.com/Offline-Cheatbreaker/Client)
+[![Releases](https://img.shields.io/github/release/Offline-CheatBreaker/Client.svg)](https://github.com/Offline-Cheatbreaker/Client/releases)
 [![Issues](https://img.shields.io/github/issues/Offline-CheatBreaker/Client)](https://github.com/Offline-CheatBreaker/Client/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Offline-CheatBreaker/Client)](https://github.com/Offline-CheatBreaker/Client/pulls)
 <a href="https://offlinecheatbreaker.com/discord"><img src="https://discordapp.com/api/guilds/633325309395206156/widget.png?style=shield" alt="Discord Server"></a>
