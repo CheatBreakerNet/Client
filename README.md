@@ -1,15 +1,16 @@
 # Offline CheatBreaker
 
-[![Releases](https://img.shields.io/github/release/ShonP40/Offline-CheatBreaker.svg)](https://github.com/ShonP40/Offline-CheatBreaker/releases)
-[![Issues](https://img.shields.io/github/issues/ShonP40/Offline-CheatBreaker)](https://github.com/ShonP40/Offline-CheatBreaker/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/ShonP40/Offline-CheatBreaker)](https://github.com/ShonP40/Offline-CheatBreaker/pulls)
+[![Releases](https://img.shields.io/github/release/Offline-CheatBreaker/Client.svg)](https://github.com/Offline-Cheatbreaker/Client)
+[![Issues](https://img.shields.io/github/issues/Offline-CheatBreaker/Client)](https://github.com/Offline-CheatBreaker/Client/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Offline-CheatBreaker/Client)](https://github.com/Offline-CheatBreaker/Client/pulls)
 <a href="https://offlinecheatbreaker.com/discord"><img src="https://discordapp.com/api/guilds/633325309395206156/widget.png?style=shield" alt="Discord Server"></a>
 
 [![amd64](https://img.shields.io/badge/amd64-yes-green.svg)](https://offlinecheatbreaker.com/download/)
 ![i386](https://img.shields.io/badge/i386-no-red.svg)
-[![Windows](https://img.shields.io/badge/Windows-yes-green.svg)](https://github.com/ShonP40/Offline-CheatBreaker/wiki/Windows-installation-instructions)
-[![macOS](https://img.shields.io/badge/macOS-yes-green.svg)](https://github.com/ShonP40/Offline-CheatBreaker/wiki/MacOS-installation-instructions)
-[![Linux](https://img.shields.io/badge/Linux-yes-green.svg)](https://github.com/ShonP40/Offline-CheatBreaker/wiki/Ubuntu-and-Debian-installation-instructions)
+[![Windows](https://img.shields.io/badge/Windows-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Windows-installation-instructions)
+[![macOS](https://img.shields.io/badge/macOS-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/MacOS-installation-instructions)
+[![Linux](https://img.shields.io/badge/Ubuntu/Debian-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Ubuntu-and-Debian-installation-instructions)
+[![Linux](https://img.shields.io/badge/Linux-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Linux-(Other)-installation-instructions)
 
 CheatBreaker is a modpack and FPS booster combined! In most cases, CheatBreaker more than doubles your normal Minecraft frames!
 
