@@ -32,7 +32,6 @@
 - CB Red cape
 - CB Teal cape
 - CB Yellow cape
-- CB Gold cape
 
 ### [ShonP40](https://namemc.com/profile/fa1b7abc-c7b6-41df-b586-16f84257cfeb)
 - GoldenPvP Forest cape
@@ -60,6 +59,9 @@
 - CB Pixels cape
 - Crown cape
 - Sunset cape
+- Lapis cape
+- Redstone cape
+- Totem cape
 
 ### [Troquel](https://namemc.com/profile/e06d47ff-7df8-46ad-8e2e-bd53dd0b1f5d)
 - CB Lines cape
@@ -77,3 +79,14 @@
 
 ### [dom](https://namemc.com/profile/aac324a7-6d87-4e3d-b3ea-e1076d63e1b8)
 - Galaxy wings
+
+### [Hot Tutorials](https://namemc.com/profile/f247be7c-5b82-41c6-9148-793ded77e71f)
+- Prismatic CB cape
+- Prismatic Wings
+
+### [ImDoiver](https://namemc.com/profile/ef042ecb-8c1a-4955-bbb4-69bb074963d6)
+- Offline CheatBreaker cape
+
+### [Nxrbe](https://www.youtube.com/channel/UCrBhaTW6cRPI-H1ZKQZIjjw)
+- Holidays Tree cape
+- CB Gold cape
