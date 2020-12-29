@@ -92,4 +92,4 @@
 - Holidays Tree cape
 - CB Gold cape
 - Ruby cape
-- Golden Apple
+- Golden Apple cape
