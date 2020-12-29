@@ -91,3 +91,5 @@
 ### [Nxrbe](https://www.youtube.com/channel/UCrBhaTW6cRPI-H1ZKQZIjjw)
 - Holidays Tree cape
 - CB Gold cape
+- Ruby cape
+- Golden Apple
