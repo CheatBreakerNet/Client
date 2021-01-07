@@ -95,5 +95,5 @@
 - Golden Apple cape
 - CB No Connection cape
 
-### [Aidam](https://www.youtube.com/channel/UC9tbUMiUi2y6onDSoHWio5g)
+### [Aidam](https://namemc.com/profile/11c950fd-2b6d-469e-9298-2494be1c18cc)
 - Half a Heart cape
