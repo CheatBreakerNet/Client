@@ -93,3 +93,7 @@
 - CB Gold cape
 - Ruby cape
 - Golden Apple cape
+- CB No Connection cape
+
+### [Aidam](https://www.youtube.com/channel/UC9tbUMiUi2y6onDSoHWio5g)
+- Half a Heart cape
