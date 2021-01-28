@@ -63,6 +63,7 @@
 - Lapis cape
 - Redstone cape
 - Totem cape
+- Wither cape
 
 ### [Troquel](https://namemc.com/profile/e06d47ff-7df8-46ad-8e2e-bd53dd0b1f5d)
 - CB Lines cape
@@ -97,3 +98,6 @@
 
 ### [Aidam](https://namemc.com/profile/11c950fd-2b6d-469e-9298-2494be1c18cc)
 - Half a Heart cape
+
+### Clutchie#2827 (on Discord)
+- Panda cape
