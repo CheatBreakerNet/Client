@@ -99,5 +99,5 @@
 ### [Aidam](https://namemc.com/profile/11c950fd-2b6d-469e-9298-2494be1c18cc)
 - Half a Heart cape
 
-### Clutchie#2827 (on Discord)
+### [Clutchie](https://namemc.com/profile/febcff13-ae81-4863-953e-0f67ff4b72c6)
 - Panda cape
