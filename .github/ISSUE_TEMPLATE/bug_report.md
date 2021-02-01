@@ -7,6 +7,16 @@ assignees: ''
 
 ---
 
+<!-- Thank you for reporting a bug on Offline CheatBreaker. Please read this first:
+
+- Please check if your issue was addressed already in another issue or on our FAQ page (https://offlinecheatbreaker.com/faq).
+- Provide as many details as possible. Simply saying "X crashes" or "X gives bug" isn't enough!
+- Paste logs into the backticks (```).
+- Read through the template carefully and fill out all missing details.
+
+Do not delete any text from this template! Otherwise the issue may be closed automatically.
+-->
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
