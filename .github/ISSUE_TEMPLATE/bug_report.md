@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Submit a report to help us improve
 title: ''
 labels: bug
 assignees: ''
@@ -24,10 +24,10 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Please complete the following information:**
- - OS: [e.g. `macOS 10.15`]
+ - OS: [e.g. `macOS 11.1`]
  - Game version [e.g. `1.7.10`]
- - Game build number [e.g. `03d0882`]
- - Launcher version [e.g. `2.0.0 Beta 5`]
+ - Game build number [e.g. `2d8a7ac`]
+ - Launcher version [e.g. `2.0.0 Beta 6`]
  - If on **Linux**, provide the output of `java -version` from Terminal
 
 
