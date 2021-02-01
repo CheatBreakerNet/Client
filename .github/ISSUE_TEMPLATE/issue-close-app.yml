@@ -8,18 +8,6 @@ comment: >-
 issueConfigs:
 - content:
   - "Do not delete any text from this template! Otherwise the issue may be closed automatically."
-- content:
-  - "**Describe the bug**"
-- content:
-  - "**To Reproduce**"
-- content:
-  - "**Expected behavior**"
-- content:
-  - "**Screenshots**"
-- content:
-  - "**Please complete the following information:**"
-- content:
-  - "**Additional context**"
 
 caseInsensitive: true
 label: "missing-template"
