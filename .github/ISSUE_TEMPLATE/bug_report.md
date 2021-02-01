@@ -14,7 +14,7 @@ assignees: ''
 - Paste logs into the backticks (```).
 - Read through the template carefully and fill out all missing details.
 
-Do not delete any text from this template! Otherwise the issue may be closed automatically.
+Do not delete any text from this template! Otherwise the issue may be closed automatically!
 -->
 
 **Describe the bug**
