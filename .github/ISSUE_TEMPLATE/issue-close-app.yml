@@ -1,0 +1,25 @@
+comment: >-
+  This issue was auto-closed because the issue template was not filled out.
+  
+  The Offline CheatBreaker team invests a lot of time to maintain this project, so
+  please fill out the issue template.
+  
+  If the issue still occurs, open a new ticket and fill out the template.
+issueConfigs:
+- content:
+  - "Do not delete any text from this template! Otherwise the issue may be closed automatically."
+- content:
+  - "**Describe the bug**"
+- content:
+  - "**To Reproduce**"
+- content:
+  - "**Expected behavior**"
+- content:
+  - "**Screenshots**"
+- content:
+  - "**Please complete the following information:**"
+- content:
+  - "**Additional context**"
+
+caseInsensitive: true
+label: "missing-template"
