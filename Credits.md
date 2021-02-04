@@ -101,3 +101,13 @@
 
 ### [Clutchie](https://namemc.com/profile/febcff13-ae81-4863-953e-0f67ff4b72c6)
 - Panda cape
+
+### [Antoni](https://namemc.com/profile/105aeb47-b1c9-4fec-989c-ad70726c8e52)
+- CheatBreaker cape
+
+### awadwa#3755 (On Discord)
+- CB Chroma cape
+- Mushroom cape
+
+### uwuHami#2287 (On Discord)
+- Dark Red wings
