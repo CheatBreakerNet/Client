@@ -105,7 +105,7 @@
 ### [Antoni](https://namemc.com/profile/105aeb47-b1c9-4fec-989c-ad70726c8e52)
 - CheatBreaker cape
 
-### awadwa#3755 (On Discord)
+### [awadwa](https://namemc.com/profile/21812c2d-810a-4f0d-a142-26bce2b43beb)
 - CB Chroma cape
 - Mushroom cape
 
