@@ -76,7 +76,7 @@
 - Gold Ingot cape
 - Iron Ingot cape
 
-### [itsjhalt2](https://namemc.com/profile/688b61e3-a059-4cc1-b045-d106d1236e3d)
+### [JonathanHalt](https://namemc.com/profile/688b61e3-a059-4cc1-b045-d106d1236e3d)
 - Nitro Booster cape
 
 ### [dom](https://namemc.com/profile/aac324a7-6d87-4e3d-b3ea-e1076d63e1b8)
@@ -111,3 +111,9 @@
 
 ### uwuHami#2287 (On Discord)
 - Dark Red wings
+- Buttefly Red Wings
+- Glowing Red Wings
+- Red Outline Wings
+
+### [itsjhalt2](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
+- CB Chroma Outline cape
