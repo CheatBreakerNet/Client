@@ -109,7 +109,7 @@
 - CB Chroma cape
 - Mushroom cape
 
-### uwuHami#2287 (On Discord)
+### [uwuHami](https://namemc.com/profile/bc849950-6951-477c-a8b8-d2be1790b0af)
 - Dark Red wings
 - Buttefly Red Wings
 - Glowing Red Wings
