@@ -9,7 +9,6 @@
 ![i386](https://img.shields.io/badge/i386-no-red.svg)
 [![Windows](https://img.shields.io/badge/Windows-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Windows-installation-instructions)
 [![macOS](https://img.shields.io/badge/macOS-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/MacOS-installation-instructions)
-[![Linux](https://img.shields.io/badge/Ubuntu/Debian-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Ubuntu-and-Debian-installation-instructions)
 [![Linux](https://img.shields.io/badge/Linux-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Linux-(Other)-installation-instructions)
 
 Offline CheatBreaker is a modpack and FPS booster combined! In most cases, Offline CheatBreaker more than doubles your normal Minecraft frames!
