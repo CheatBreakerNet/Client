@@ -18,28 +18,31 @@ Do not delete any text from this template! Otherwise the issue may be closed aut
 -->
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+<!-- A clear and concise description of what the bug is. -->
 
 **To Reproduce**
 Steps to reproduce the behavior:
+<!--
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+-->
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- A clear and concise description of what you expected to happen. -->
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- If applicable, add screenshots to help explain your problem. -->
 
 **Please complete the following information:**
- - OS: [e.g. `macOS 11.1`]
- - Game version [e.g. `1.7.10`]
- - Game build number [e.g. `2d8a7ac`]
- - Launcher version [e.g. `2.0.0 Beta 6`]
- - If on **Linux**, provide the output of `java -version` from Terminal
-
+ - OS: <!-- [e.g. `macOS 11.1`] -->
+ - Game version: <!-- [e.g. `1.7.10`] -->
+ - Game build number: <!-- [e.g. `2d8a7ac`] -->
+ - Launcher version: <!-- [e.g. `2.0.0 Beta 8`] -->
+<!--
+ - If you're using our **Linux (Other)** version, provide the output of `java -version` from Terminal.
+-->
 
 **Additional context**
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
