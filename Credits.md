@@ -81,6 +81,7 @@
 
 ### [dom](https://namemc.com/profile/aac324a7-6d87-4e3d-b3ea-e1076d63e1b8)
 - Galaxy wings
+- Ghost wings
 
 ### [Hot Tutorials](https://namemc.com/profile/f247be7c-5b82-41c6-9148-793ded77e71f)
 - Prismatic CB cape
@@ -88,6 +89,7 @@
 
 ### [ImDoiver](https://namemc.com/profile/ef042ecb-8c1a-4955-bbb4-69bb074963d6)
 - Offline CheatBreaker cape
+- CB Nitro cape
 
 ### [Nxrbe](https://www.youtube.com/channel/UCrBhaTW6cRPI-H1ZKQZIjjw)
 - Holidays Tree cape
@@ -111,9 +113,21 @@
 
 ### [uwuHami](https://namemc.com/profile/bc849950-6951-477c-a8b8-d2be1790b0af)
 - Dark Red wings
-- Buttefly Red Wings
-- Glowing Red Wings
-- Red Outline Wings
+- Buttefly Red wings
+- Glowing Red wings
+- Red Outline wings
+- Red and White wings
+- White Outline wings
+- Black Outline wings
+- Rainbow Outline wings
 
 ### [itsjhalt2](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
 - CB Chroma Outline cape
+
+### [Sarpado](https://namemc.com/profile/8c908393-8df5-4501-9a85-c77a8f4ba17c)
+- CB Droplets cape
+- CB Supernova cape
+- CB Tokyo cape
+
+### Fur#6633 (on Discord)
+- Polar Bear cape
