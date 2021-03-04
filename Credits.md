@@ -129,5 +129,5 @@
 - CB Supernova cape
 - CB Tokyo cape
 
-### Fur#6633 (on Discord)
+### [Fur](https://namemc.com/profile/0de5085e-b3e8-4a04-a3cb-5f2268b20529)
 - Polar Bear cape
