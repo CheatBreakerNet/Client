@@ -1,4 +1,4 @@
-# Client credits:
+# Overall Client credits:
 
 - Original design, concept, UI, etc. taken from [jhalt](https://github.com/jhalt) & [CheatBreaker](https://github.com/CheatBreaker)'s original development team. Not endorsed, affiliated, or approved by them in any way.
 - Lunar Client 1.8.9 Original design, concept, UI, etc. taken from [Moonsworth](https://github.com/Moonsworth) & [Lunar Client](https://github.com/LunarClient)'s original development team. Not endorsed, affiliated, or approved by them in any way.
