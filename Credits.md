@@ -135,6 +135,6 @@
 ### [Fur](https://namemc.com/profile/0de5085e-b3e8-4a04-a3cb-5f2268b20529)
 - Polar Bear cape
 
-### Vicntchz#7578 (on Discord)
+### [Vicntchz](https://namemc.com/profile/65bc1d89-09f1-4a93-8cd2-8b3b2dcf3f8a)
 - CB Sea cape
 - CB Rainbow cape
