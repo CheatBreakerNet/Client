@@ -120,6 +120,9 @@
 - White Outline wings
 - Black Outline wings
 - Rainbow Outline wings
+- Vampire wings
+- CB Vampire cape
+- CB Vampire Outline cape
 
 ### [itsjhalt2](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
 - CB Chroma Outline cape
@@ -131,3 +134,7 @@
 
 ### [Fur](https://namemc.com/profile/0de5085e-b3e8-4a04-a3cb-5f2268b20529)
 - Polar Bear cape
+
+### Vicntchz#7578 (on Discord)
+- CB Sea cape
+- CB Rainbow cape
