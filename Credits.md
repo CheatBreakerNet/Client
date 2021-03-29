@@ -2,7 +2,7 @@
 
 - Original design, concept, UI, etc. taken from [jhalt](https://github.com/jhalt) & [CheatBreaker](https://github.com/CheatBreaker)'s original development team. Not endorsed, affiliated, or approved by them in any way.
 - Lunar Client 1.8.9 Original design, concept, UI, etc. taken from [Moonsworth](https://github.com/Moonsworth) & [Lunar Client](https://github.com/LunarClient)'s original development team. Not endorsed, affiliated, or approved by them in any way.
-- Launcher by [ShonP40](https://github.com/ShonP40), [Jegox](https://github.com/JegoxMC), [Maurice Norden](https://github.com/MauriceNorden), [ArcaneCiCi](https://github.com/ArcaneCiCi) and [itsjhalt2](https://github.com/itsjhalt2).
+- Launcher by [ShonP40](https://github.com/ShonP40), [Jegox](https://github.com/JegoxMC), [Maurice Norden](https://github.com/MauriceNorden), [ArcaneCiCi](https://github.com/ArcaneCiCi) and [Revoluctionary](https://github.com/Revoluctionary).
 - Offline CheatBreaker 1.7.10 was modified by [itsjhalt2](https://github.com/itsjhalt2), [ShonP40](https://github.com/ShonP40) and rbuh.
 - Offline Lunar Client 1.8.9 was reskined by [Tellinq](https://github.com/Tellinq) and [ShonP40](https://github.com/ShonP40) to create Offline CheatBreaker 1.8.9.
 - Website edited by [ShonP40](https://github.com/ShonP40).
@@ -76,7 +76,7 @@
 - Gold Ingot cape
 - Iron Ingot cape
 
-### [JonathanHalt](https://namemc.com/profile/688b61e3-a059-4cc1-b045-d106d1236e3d)
+### [Revoluctionary](https://namemc.com/profile/688b61e3-a059-4cc1-b045-d106d1236e3d)
 - Nitro Booster cape
 
 ### [dom](https://namemc.com/profile/aac324a7-6d87-4e3d-b3ea-e1076d63e1b8)
@@ -124,7 +124,7 @@
 - CB Vampire cape
 - CB Vampire Outline cape
 
-### [itsjhalt2](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
+### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
 - CB Chroma Outline cape
 
 ### [Sarpado](https://namemc.com/profile/8c908393-8df5-4501-9a85-c77a8f4ba17c)
