@@ -123,6 +123,56 @@
 - Vampire wings
 - CB Vampire cape
 - CB Vampire Outline cape
+- OG CB Blue cape
+- OG CB Blue Outline cape
+- OG CB Green cape
+- OG CB Green Outline cape
+- OG CB Red cape
+- OG CB Red Outline cape
+- Blue and White wings
+- Blue Galaxy wings
+- Blue Hearts wings
+- Bone Green wings
+- Bone Light Green wings
+- Bone Purple wings
+- Bone Red wings
+- Butterfly Green wings
+- Butterfly Light Red wings
+- Butterfly Purple wings
+- Camo Green wings
+- Cloudy Black wings
+- Cloudy Blue wings
+- Cloudy Green wings
+- Cloudy Orange wings
+- Cloudy Purple wings
+- Cloudy Red wings
+- Cloudy White wings
+- Cloudy Yellow wings
+- Dark Blue Outline wings
+- Dark Camo Green Outline wings
+- Dark Purple wings
+- Dim Blue wings
+- Fiery Green wings
+- Fiery Red wings
+- Glowing Blue wings
+- Glowing Green Outline wings
+- Glowing Green wings
+- Glowing Red Outline wings
+- Green and White wings
+- Green Galaxy wings
+- Green Hearts wings
+- Ice Spikes wings
+- Large Pixelated Blue Hearts wings
+- Large Pixelated Pink Hearts wings
+- Light Blue Outline wings
+- Light Green Outline wings
+- Light Red Outline wings
+- Pink Hearts wings
+- Pixelated Blue Hearts wings
+- Pixelated Green Hearts wings
+- Pixelated Red Hearts wings
+- Red Galaxy wings
+- Snowflake Ice wings
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
 - CB Chroma Outline cape
