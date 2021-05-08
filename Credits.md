@@ -46,7 +46,7 @@
 ### [PotDuel](https://namemc.com/profile/48b4f4ef-63f5-4b4f-a640-4b43ef17fdbc)
 - Famous YouTuber cape
 
-### [Ziblacking](https://www.youtube.com/c/Ziblacking)
+### [Ziblacking](https://namemc.com/profile/c9261893-09c8-46d3-afe4-e3cdf49f0bfc)
 - Ziblacking cape
 
 ### [agz](https://namemc.com/profile/162b680e-51e0-431c-b950-f13202d107ff)
