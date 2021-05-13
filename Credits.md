@@ -173,6 +173,11 @@
 - Pixelated Red Hearts wings
 - Red Galaxy wings
 - Snowflake Ice wings
+- Cloudy Grey wings
+- Cloudy Dim Red wings
+- Bone Grey wings
+- Bone Blue wings
+- Red Hearts wings
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
 - CB Chroma Outline cape
