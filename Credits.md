@@ -178,6 +178,13 @@
 - Bone Grey wings
 - Bone Blue wings
 - Red Hearts wings
+- Dark Blue Galaxy wings
+- Light Green Galaxy wings
+- Orange Galaxy wings
+- Pink Galaxy wings
+- Purple Galaxy wings
+- Dark Red Galaxy wings
+- Yellow Galaxy wings
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
 - CB Chroma Outline cape
@@ -193,3 +200,6 @@
 ### [Vicntchz](https://namemc.com/profile/65bc1d89-09f1-4a93-8cd2-8b3b2dcf3f8a)
 - CB Sea cape
 - CB Rainbow cape
+
+### [Tecqh](https://namemc.com/profile/ad24301d-6916-4404-99d4-ac7c99692d86)
+- Cyan Galaxy wings
