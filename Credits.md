@@ -203,3 +203,7 @@
 
 ### [Tecqh](https://namemc.com/profile/ad24301d-6916-4404-99d4-ac7c99692d86)
 - Cyan Galaxy wings
+- CB White Purple City cape
+- CB Black Purple City cape
+- CB Red Purple City cape
+- CB Orange Purple City cape
