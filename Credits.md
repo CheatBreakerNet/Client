@@ -2,9 +2,9 @@
 
 - Original design, concept, UI, etc. taken from [jhalt](https://github.com/jhalt) & [CheatBreaker](https://github.com/CheatBreaker)'s original development team. Not endorsed, affiliated, or approved by them in any way.
 - Lunar Client 1.8.9 Original design, concept, UI, etc. taken from [Moonsworth](https://github.com/Moonsworth) & [Lunar Client](https://github.com/LunarClient)'s original development team. Not endorsed, affiliated, or approved by them in any way.
-- Launcher by [ShonP40](https://github.com/ShonP40), [Jegox](https://github.com/JegoxMC), [Maurice Norden](https://github.com/MauriceNorden), [ArcaneCiCi](https://github.com/ArcaneCiCi) and [Revoluctionary](https://github.com/Revoluctionary).
-- Offline CheatBreaker 1.7.10 was modified by [itsjhalt2](https://github.com/itsjhalt2), [ShonP40](https://github.com/ShonP40) and rbuh.
-- Offline Lunar Client 1.8.9 was reskined by [Tellinq](https://github.com/Tellinq) and [ShonP40](https://github.com/ShonP40) to create Offline CheatBreaker 1.8.9.
+- Launcher by [ShonP40](https://github.com/ShonP40), [Jegox](https://github.com/JegoxMC), [mnDevs](https://github.com/mn-Devs) and [Revoluctionary](https://github.com/Revoluctionary).
+- Offline CheatBreaker 1.7.10 was modified by [Revoluctionary](https://github.com/Revoluctionary), [ShonP40](https://github.com/ShonP40) and rbuh.
+- Lunar Client 1.8.9 was reskined & modified by [Tellinq](https://github.com/Tellinq), [ShonP40](https://github.com/ShonP40) and [Revoluctionary](https://github.com/Revoluctionary) to create Offline CheatBreaker 1.8.9.
 - Website edited by [ShonP40](https://github.com/ShonP40).
 - Bukkit API by the [original CheatBreaker development team](https://github.com/CheatBreaker/CheatBreakerAPI).
 - Websockets by rbuh (Cosmetics & Friends System).
