@@ -234,7 +234,7 @@
 - Light Yellow Stripes wings
 - Pink Stripes wings
 
-### Teniente_#7702 (on Discord)
+### [Teniente_](https://namemc.com/profile/de4d63fc-11e4-468a-91ed-c2b099a42b05)
 - CB Blue Galaxy cape
 - CB Grey Galaxy cape
 - CB Yellow Galaxy cape
@@ -242,5 +242,5 @@
 - CB Purple Galaxy cape
 - CB Night cape
 
-### Davih360JR#0262 (on Discord)
+### [Davih360JR](https://namemc.com/profile/71cf844d-530d-475a-ae8a-923d4b930fce)
 - CB Solid Black cape
