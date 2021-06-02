@@ -185,6 +185,24 @@
 - Purple Galaxy wings
 - Dark Red Galaxy wings
 - Yellow Galaxy wings
+- Blood wings
+- Blue Stripes wings
+- Cyan Stripes wings
+- Dim Blue Stripes wings
+- Dim Cyan Stripes wings
+- Dim Green Stripes wings
+- Dim Red Stripes wings
+- Glowing Red Stripes wings
+- Green Stripes wings
+- Light Magenta Stripes wings
+- Lime Stripes wings
+- Magenta Stripes wings
+- Orange Stripes wings
+- Purple Stripes wings
+- Red Stripes wings
+- Yellow Stripes wings
+- Nitro Booster wings
+- Dark Nitro Booster
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
 - CB Chroma Outline cape
@@ -207,3 +225,22 @@
 - CB Black Purple City cape
 - CB Red Purple City cape
 - CB Orange Purple City cape
+- Grey Stripes wings
+- Light Blue Stripes wings
+- Light Cyan Stripes wings
+- Light Green Stripes wings
+- Light Purple Stripes wings
+- Light Red Stripes wings
+- Light Yellow Stripes wings
+- Pink Stripes wings
+
+### Teniente_#7702 (on Discord)
+- CB Blue Galaxy cape
+- CB Grey Galaxy cape
+- CB Yellow Galaxy cape
+- CB Cyan Galaxy cape
+- CB Purple Galaxy cape
+- CB Night cape
+
+### Davih360JR#0262 (on Discord)
+- CB Solid Black cape
