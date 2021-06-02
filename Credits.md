@@ -202,7 +202,7 @@
 - Red Stripes wings
 - Yellow Stripes wings
 - Nitro Booster wings
-- Dark Nitro Booster
+- Dark Nitro Booster wings
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
 - CB Chroma Outline cape
