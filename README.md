@@ -20,4 +20,4 @@ You can also ask questions using the Question lable.
 For more information about Offline CheatBreaker and a download link visit our [website](https://OfflineCheatBreaker.com).
 
 
-© 2019-2021 Offline CheatBreaker. Not affiliated with FrozenOrb.
+© 2019-2021 Offline CheatBreaker. Not affiliated with CheatBreaker, LLC.
