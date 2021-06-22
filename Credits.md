@@ -298,6 +298,9 @@
   - [Yellow Stripes](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Yellow%20Stripes.png)
   - [Nitro Booster](https://offlinecheatbreaker.com/Cosmetics/Nitro/Wings/Nitro%20Booster.png)
   - [Dark Nitro Booster](https://offlinecheatbreaker.com/Cosmetics/Nitro/Wings/Dark%20Nitro%20Booster.png)
+  - Bone Dark Red
+  - Dark Blood
+  - Void
 </details>
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
