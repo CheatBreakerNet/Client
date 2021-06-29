@@ -298,9 +298,9 @@
   - [Yellow Stripes](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Yellow%20Stripes.png)
   - [Nitro Booster](https://offlinecheatbreaker.com/Cosmetics/Nitro/Wings/Nitro%20Booster.png)
   - [Dark Nitro Booster](https://offlinecheatbreaker.com/Cosmetics/Nitro/Wings/Dark%20Nitro%20Booster.png)
-  - [Bone Dark Red](https://offlinecheatbreaker.com/Cosmetics/Nitro/Wings/Bone%20Dark%20Red.png)
-  - [Dark Blood](https://offlinecheatbreaker.com/Cosmetics/Nitro/Wings/Dark%20Blood.png)
-  - [Void](https://offlinecheatbreaker.com/Cosmetics/Nitro/Wings/Void.png)
+  - [Bone Dark Red](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Bone%20Dark%20Red.png)
+  - [Dark Blood](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Dark%20Blood.png)
+  - [Void](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Void.png)
 </details>
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
