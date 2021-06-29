@@ -375,3 +375,10 @@
   
   - [CB Solid Black](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Solid%20Black.png)
 </details>
+
+### ImNotDumb#9762 (on Discord)
+<details>
+  <summary><b>Wings</b></summary>
+  
+  - [Cheese](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Cheese.png)
+</details>
