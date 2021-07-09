@@ -203,14 +203,17 @@
 <details>
   <summary><b>Capes</b></summary>
   
-  - [CB Vampire](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Vampire.png)
-  - [CB Vampire Outline](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Vampire%20Outline.png)
+  - [OG CB Vampire](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/OG%20CB%20Vampire.png)
+  - [OG CB Vampire Outline](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/OG%20CB%20Vampire%20Outline.png)
   - [OG CB Blue](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/OG%20CB%20Blue.png)
   - [OG CB Blue Outline](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/OG%20CB%20Blue%20Outline.png)
   - [OG CB Green](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/OG%20CB%20Green.png)
   - [OG CB Green Outline](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/OG%20CB%20Green%20Outline.png)
   - [OG CB Red](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/OG%20CB%20Red.png)
   - [OG CB Red Outline](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/OG%20CB%20Red%20Outline.png)
+  - [CB Vampire](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Vampire.png)
+  - [Pitch Black CB](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Pitch%20Black%20CB.png)
+  - [Foggy Red CB](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Foggy%20Red%20CB.png)
 </details>
 <details>
   <summary><b>Wings</b></summary>
@@ -301,6 +304,8 @@
   - [Bone Dark Red](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Bone%20Dark%20Red.png)
   - [Dark Blood](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Dark%20Blood.png)
   - [Void](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Void.png)
+  - [Butterfly Pink Gradient](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Butterfly%20Pink%20Gradient.png)
+  - [Butterfly Purple Gradient](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Butterfly%20Purple%20Gradient.png)
 </details>
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
@@ -381,4 +386,25 @@
   <summary><b>Wings</b></summary>
   
   - [Cheese](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Cheese.png)
+</details>
+
+### ItsLuka23#6299 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [Foggy Blue CB](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Foggy%20Blue%20CB.png)
+</details>
+
+### lyics#2235 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [CB Sky](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Sky.png)
+</details>
+
+### aTurtel#5547 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [Turtle](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Turtle.png)
 </details>
