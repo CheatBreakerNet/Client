@@ -395,7 +395,7 @@
   - [Foggy Blue CB](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Foggy%20Blue%20CB.png)
 </details>
 
-### lyics#2235 (on Discord)
+### [lyics](https://namemc.com/profile/b8ec159a-fa40-471e-bf22-4474cbca05a4)
 <details>
   <summary><b>Capes</b></summary>
   
