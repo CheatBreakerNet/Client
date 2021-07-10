@@ -388,7 +388,7 @@
   - [Cheese](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Cheese.png)
 </details>
 
-### ItsLuka23#6299 (on Discord)
+### [ItsLuka23](https://namemc.com/profile/0e6a35af-b875-47f9-a9dd-dbd7f6571854)
 <details>
   <summary><b>Capes</b></summary>
   
@@ -402,7 +402,7 @@
   - [CB Sky](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Sky.png)
 </details>
 
-### aTurtel#5547 (on Discord)
+### [aTurtel](https://namemc.com/profile/a1f8b1ce-bb29-4e61-a77f-0e2c64188468)
 <details>
   <summary><b>Capes</b></summary>
   
