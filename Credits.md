@@ -306,6 +306,7 @@
   - [Void](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Void.png)
   - [Butterfly Pink Gradient](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Butterfly%20Pink%20Gradient.png)
   - [Butterfly Purple Gradient](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Butterfly%20Purple%20Gradient.png)
+  - [Ziblacking](https://offlinecheatbreaker.com/Cosmetics/Special/Wings/Ziblacking.png)
 </details>
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
@@ -407,4 +408,26 @@
   <summary><b>Capes</b></summary>
   
   - [Turtle](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Turtle.png)
+  - [Shield](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Shield.png)
+</details>
+
+### [Fame_Kolala](https://namemc.com/profile/99a11fae-2d7e-42ed-b646-85cbfd3b1696)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [Netherite](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Netherite.png)
+</details>
+
+### [SlayszPacks](https://namemc.com/profile/21a28ad4-a13e-4c23-be22-08a6ecd3ca55)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [Blue Turtle](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Blue%20Turtle.png)
+</details>
+
+### Anti.#0001 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [CB Enderman](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Enderman.png)
 </details>
