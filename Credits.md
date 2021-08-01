@@ -425,7 +425,7 @@
   - [Blue Turtle](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Blue%20Turtle.png)
 </details>
 
-### Anti.#0001 (on Discord)
+### [Anti.](https://namemc.com/profile/77e00f19-fc65-4581-be7e-7c8d8dd98731)
 <details>
   <summary><b>Capes</b></summary>
   
