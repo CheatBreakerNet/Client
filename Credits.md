@@ -432,7 +432,7 @@
   - [CB Enderman](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Enderman.png)
 </details>
 
-### ddozzi#6190 (on Discord)
+### [ddozzi](https://namemc.com/profile/dc4383ed-3258-4de6-ad9c-fabc7d1086c3)
 <details>
   <summary><b>Capes</b></summary>
   
