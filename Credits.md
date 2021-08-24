@@ -431,3 +431,12 @@
   
   - [CB Enderman](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Enderman.png)
 </details>
+
+### ddozzi#6190 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [CB 8Bit City](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%208Bit%20City.png)
+  - [CB 8Bit Mountains](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%208Bit%20Mountains.png)
+  - [Futuristic CB](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Futuristic%20CB.png)
+</details>
