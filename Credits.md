@@ -401,6 +401,7 @@
   <summary><b>Capes</b></summary>
   
   - [CB Sky](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Sky.png)
+  - [CB Cherry Tree](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Cherry%20Tree.png)
 </details>
 
 ### [aTurtel](https://namemc.com/profile/a1f8b1ce-bb29-4e61-a77f-0e2c64188468)
