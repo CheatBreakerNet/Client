@@ -382,7 +382,7 @@
   - [CB Solid Black](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Solid%20Black.png)
 </details>
 
-### ImNotDumb#9762 (on Discord)
+### [ImNotDumb](https://namemc.com/profile/8cb7dccf-bf29-41a4-806a-4ae512827cb1)
 <details>
   <summary><b>Wings</b></summary>
   
