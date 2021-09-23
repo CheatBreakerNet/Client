@@ -7,7 +7,7 @@
 - Lunar Client 1.8.9 was reskined & modified by [Tellinq](https://github.com/Tellinq), [ShonP40](https://github.com/ShonP40), [Duhream](https://github.com/Duhream) and [AgentRKID](https://github.com/AgentRKID) to create Offline CheatBreaker 1.8.9.
 - Website edited by [ShonP40](https://github.com/ShonP40).
 - Bukkit API by the [original CheatBreaker development team](https://github.com/CheatBreaker/CheatBreakerAPI) & modified by [AgentRKID](https://github.com/AgentRKID) and [ShonP40](https://github.com/ShonP40).
-- Websockets by [AgentRKID](https://github.com/AgentRKID) (Cosmetics & Friends System).
+- Websockets (Cosmetics & Friends System) by [AgentRKID](https://github.com/AgentRKID).
 
 
 # Cosmetics credits:
