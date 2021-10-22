@@ -402,6 +402,7 @@
   
   - [CB Sky](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Sky.png)
   - [CB Cherry Tree](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Cherry%20Tree.png)
+  - [CB Lights](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Lights.png)
 </details>
 
 ### [aTurtel](https://namemc.com/profile/a1f8b1ce-bb29-4e61-a77f-0e2c64188468)
@@ -440,4 +441,12 @@
   - [CB 8Bit City](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%208Bit%20City.png)
   - [CB 8Bit Mountains](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%208Bit%20Mountains.png)
   - [Futuristic CB](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Futuristic%20CB.png)
+</details>
+
+### Changes#3225 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [CB Red Sky](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Red%20Sky.png)
+  - [Wild CB](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Wild%20CB.png)
 </details>
