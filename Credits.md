@@ -449,4 +449,24 @@
   
   - [CB Red Sky](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Red%20Sky.png)
   - [Wild CB](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Wild%20CB.png)
+  - [CB Spruce](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Spruce.png)
+</details>
+
+### Eycy#9981 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [Bee](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Bee.png)
+  - [Flower Golem](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Flower%20Golem.png)
+  - [Grave Bane](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Spruce.png)
+  - [Lightning Rod](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Lightning%20Rod.png)
+  - [Lucky Block](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Lucky%20Block.png)
+  - [Phantom](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Phantom.png)
+  - [Lightning Rod Artifact](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Lightning%20Rod%20Artifact.png)
+</details>
+<details>
+  <summary><b>Wings</b></summary>
+  
+  - [Smoky Blue](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Smoky%20Blue.png)
+  - [The End](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/The%20End.png)
 </details>
