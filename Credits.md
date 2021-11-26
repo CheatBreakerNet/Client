@@ -452,7 +452,7 @@
   - [CB Spruce](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Spruce.png)
 </details>
 
-### Eycy#9981 (on Discord)
+### [Eycy](https://namemc.com/profile/52c1d41b-63b5-4777-b0a8-c14a7f360431)
 <details>
   <summary><b>Capes</b></summary>
   
