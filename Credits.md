@@ -463,10 +463,19 @@
   - [Lucky Block](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Lucky%20Block.png)
   - [Phantom](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Phantom.png)
   - [Lightning Rod Artifact](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Lightning%20Rod%20Artifact.png)
+  - [CB Abstract](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/CB%20Abstract.png)
 </details>
 <details>
   <summary><b>Wings</b></summary>
   
   - [Smoky Blue](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Smoky%20Blue.png)
   - [The End](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/The%20End.png)
+</details>
+
+### Lethal#5108 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [8Bit Ice Mountains](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/8Bit%20Ice%20Mountains.png)
+  - [8Bit Night City](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/8Bit%20Night%20City.png)
 </details>
