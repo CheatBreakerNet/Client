@@ -472,7 +472,7 @@
   - [The End](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/The%20End.png)
 </details>
 
-### Lethal#5108 (on Discord)
+### [catboylethal](https://namemc.com/profile/9c81f879-65c0-44e3-9572-10d208ea3780)
 <details>
   <summary><b>Capes</b></summary>
   
