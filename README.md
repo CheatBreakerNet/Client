@@ -13,7 +13,7 @@
 
 Offline CheatBreaker is a continuation of the orignal CheatBreaker (which was shutdown in 2018 and was a modpack and FPS booster combined!). In most cases, Offline CheatBreaker more than doubles your normal Minecraft frames!
 
-On this GitHub page you can report bugs and submit suggestions using the Bug lable (to submit bugs) and the Suggestion lable (to submit suggestions).
+On this GitHub page you can report bugs and submit suggestions using the `Bug` and `Suggestion` labels.
 
 You can also ask questions using the Question lable.
 
