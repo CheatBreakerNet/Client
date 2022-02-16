@@ -1,0 +1,33 @@
+name: ❔ Question
+description: Have a question about Offline CheatBreaker?
+labels: [question]
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting a question!
+        
+        - Please check if your question was already asked in another issue
+        - Provide as many details as possible
+
+  - type: dropdown
+    attributes:
+      label: Environment
+      description: Is this a client related question or a launcher related question?
+      options:
+        - Client
+        - Launcher
+        - Else
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Describe your question
+      description: |
+        A concise description of your question
+
+        Tip: You can attach images by clicking this area to highlight it and then dragging images in
+    validations:
+      required: true

@@ -15,7 +15,7 @@ Offline CheatBreaker is a continuation of the orignal CheatBreaker (which was sh
 
 On this GitHub page you can report bugs and submit suggestions using the `Bug` and `Suggestion` forms
 
-You can also ask questions using the Question lable
+You can also ask questions using the `Question` form
 
 For more information about Offline CheatBreaker and a download link visit our [website](https://OfflineCheatBreaker.com)
 
