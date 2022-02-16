@@ -1,0 +1,40 @@
+name: 💡 Suggestion
+description: Submit client/launcher suggestions/feature requests
+labels: [enhancement]
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a feature!
+        
+        - Please run the game and try out all our existing features before suggesting a new one
+        - Please check if your suggestion was already suggested in another issue or [already exists ingame](https://mods.offlinecheatbreaker.com)
+        - Provide as many details as possible. Simply saying "I want X" or "Add X" isn't enough!
+
+  - type: dropdown
+    attributes:
+      label: Environment
+      description: Is this a client suggestion or a launcher suggestion?
+      options:
+        - Client
+        - Launcher
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Describe the suggestion
+      description: A concise description of your suggestion
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give us more context about your suggestion!
+
+        Tip: You can attach images by clicking this area to highlight it and then dragging images in
+    validations:
+      required: false
