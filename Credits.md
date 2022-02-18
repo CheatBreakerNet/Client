@@ -479,3 +479,10 @@
   - [8Bit Ice Mountains](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/8Bit%20Ice%20Mountains.png)
   - [8Bit Night City](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/8Bit%20Night%20City.png)
 </details>
+
+### Makio#6666 (on Discord)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [Moon](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Moon.png)
+</details>
