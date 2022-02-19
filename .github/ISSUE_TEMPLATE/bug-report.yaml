@@ -10,7 +10,7 @@ body:
         
         - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://self-diagnostics.offlinecheatbreaker.com)
         - Provide as many details as possible. Simply saying "X crashes" or "X gives bug" isn't enough!
-        - Paste logs into the backticks (```)
+        - Paste logs into the backticks (``)
 
   - type: textarea
     attributes:
