@@ -480,7 +480,7 @@
   - [8Bit Night City](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/8Bit%20Night%20City.png)
 </details>
 
-### Makio#6666 (on Discord)
+### [Makio9099](https://namemc.com/profile/292f52a5-8ad1-47c7-86e8-fa050b510d5d)
 <details>
   <summary><b>Capes</b></summary>
   
