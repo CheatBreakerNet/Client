@@ -159,7 +159,7 @@
   - [CB Nitro](https://offlinecheatbreaker.com/Cosmetics/Nitro/Capes/CB%20Nitro.png)
 </details>
 
-### [Nxrbe](https://www.youtube.com/channel/UCrBhaTW6cRPI-H1ZKQZIjjw)
+### [Nxrbe](https://namemc.com/profile/af18555d-4a84-444f-89f8-fbf8f1c19332)
 <details>
   <summary><b>Capes</b></summary>
  
