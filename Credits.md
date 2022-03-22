@@ -306,7 +306,7 @@
   - [Void](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Void.png)
   - [Butterfly Pink Gradient](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Butterfly%20Pink%20Gradient.png)
   - [Butterfly Purple Gradient](https://offlinecheatbreaker.com/Cosmetics/Normal/Wings/Butterfly%20Purple%20Gradient.png)
-  - [Ziblacking](https://offlinecheatbreaker.com/Cosmetics/Special/Wings/Ziblacking.png)
+  - [Ziblacking](https://offlinecheatbreaker.com/Cosmetics/Media/Wings/Ziblacking.png)
 </details>
 
 ### [WhiteParrot](https://namemc.com/profile/83c98721-6c66-438e-bf3c-2e1d0dd6d469)
