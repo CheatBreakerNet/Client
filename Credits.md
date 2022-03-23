@@ -493,3 +493,14 @@
   
   - [Enderman](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Enderman.png)
 </details>
+
+### [Fatsx](https://namemc.com/profile/61fc8ba0-36ad-468a-bfae-377e65707710)
+<details>
+  <summary><b>Capes</b></summary>
+  
+  - [Cherry Tree](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Cherry%20Tree.png)
+  - [Dealer](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Dealer.png)
+  - [Snowy Mountains](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Snowy%20Mountains.png)
+  - [Sea Sunset](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Sea%20Sunset.png)
+  - [Volcano](https://offlinecheatbreaker.com/Cosmetics/Normal/Capes/Volcano.png)
+</details>
