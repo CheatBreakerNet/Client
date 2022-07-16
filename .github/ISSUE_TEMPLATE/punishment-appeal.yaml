@@ -1,0 +1,38 @@
+name: 👨‍⚖️ Appeal a punishment
+description: Appeal a Discord or Client punishment
+labels: [punishment-appeal]
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting a punishment appeal!
+        
+        - Please do not submit multiple appeal forms for the same punishment
+        - Provide as many details as possible
+
+  - type: dropdown
+    attributes:
+      label: Type
+      description: Are you appealing a Discord server punishment or a Client punishment?
+      options:
+        - Discord
+        - Client
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Describe the reason of your punishment (or the reason you think you were punished for)
+      description: |
+        Tip: You can attach images by clicking this area to highlight it and then dragging images in
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Describe why we should revoke your punishment
+      description: |
+        Tip: You can attach images by clicking this area to highlight it and then dragging images in
+    validations:
+      required: true
