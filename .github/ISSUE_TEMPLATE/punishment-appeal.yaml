@@ -23,6 +23,14 @@ body:
 
   - type: textarea
     attributes:
+      label: What is your username?
+      description: |
+        Enter your full Discord username if you chose Discord above, or your Minecraft username if you chose Client above
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
       label: Describe the reason of your punishment (or the reason you think you were punished for)
       description: |
         Tip: You can attach images by clicking this area to highlight it and then dragging images in
