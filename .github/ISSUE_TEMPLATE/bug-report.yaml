@@ -8,7 +8,7 @@ body:
       value: |
         Thank you for reporting a bug on Offline CheatBreaker!
         
-        - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://self-diagnostics.offlinecheatbreaker.com)
+        - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://offlinecheatbreaker.com/self-diagnostics)
         - Provide as many details as possible. Simply saying "X crashes" or "X gives bug" isn't enough!
         - Paste logs into the backticks (``)
 
