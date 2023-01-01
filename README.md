@@ -20,4 +20,4 @@ You can also ask questions using the `Question` form
 For more information about Offline CheatBreaker and a download link visit our [website](https://OfflineCheatBreaker.com)
 
 
-© 2019-2022 Offline CheatBreaker. Not affiliated with CheatBreaker, LLC.
+© 2019-2023 Offline CheatBreaker. Not affiliated with CheatBreaker, LLC.
