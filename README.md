@@ -11,7 +11,7 @@
 [![macOS](https://img.shields.io/badge/macOS-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/MacOS-installation-instructions)
 [![Linux](https://img.shields.io/badge/Linux-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Linux-(Other)-installation-instructions)
 
-Offline CheatBreaker is a continuation of the orignal CheatBreaker (which was shutdown in 2018 and was a modpack and FPS booster combined!). In most cases, Offline CheatBreaker more than doubles your normal Minecraft frames!
+Offline CheatBreaker is a continuation of the original CheatBreaker (which was shutdown in 2018 and was a modpack and FPS booster combined!). In most cases, Offline CheatBreaker more than doubles your normal Minecraft frames!
 
 On this GitHub page you can report bugs and submit suggestions using the `Bug` and `Suggestion` forms
 
