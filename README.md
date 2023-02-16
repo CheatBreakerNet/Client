@@ -17,7 +17,7 @@ On this GitHub page you can report bugs and submit suggestions using the `Bug` a
 
 You can also ask questions using the `Question` form
 
-For more information about Offline CheatBreaker and a download link visit our [website](https://OfflineCheatBreaker.com)
+For more information about Offline CheatBreaker and a download link, visit our [website](https://OfflineCheatBreaker.com)
 
 
 © 2019-2023 Offline CheatBreaker. Not affiliated with CheatBreaker, LLC.
