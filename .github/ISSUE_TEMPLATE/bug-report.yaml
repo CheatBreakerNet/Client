@@ -11,6 +11,7 @@ body:
         - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://offlinecheatbreaker.com/self-diagnostics)
         - Provide as many details as possible. Simply saying "X crashes" or "X gives bug" isn't enough!
         - Paste logs into the backticks (``)
+        - If you'd like to share the full `renderer.log` file, please only do so by emailing it to us at `support@offlinecheatbreaker.com` and linking your issue in it to protect your privacy
 
   - type: textarea
     attributes:
@@ -44,15 +45,17 @@ body:
       label: Environment
       description: |
         examples:
-          - **OS**: macOS 12.2.1
+          - **OS**: macOS 13.2.1
           - **Game version**: 1.7.10
-          - **Game build number**: 33e6279
-          - **Launcher version**: 2.0.0
+          - **Game build number**: 32617e9
+          - **Launcher version**: 2.2.5
+          - **JRE version**: 8u111
       value: |
           OS: 
           Game version: 
           Game build number: 
           Launcher version: 
+          JRE version: 
       render: markdown
     validations:
       required: true
