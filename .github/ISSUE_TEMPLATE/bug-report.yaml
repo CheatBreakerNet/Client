@@ -11,7 +11,7 @@ body:
         - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://offlinecheatbreaker.com/self-diagnostics)
         - Provide as many details as possible. Simply saying "X crashes" or "X gives bug" isn't enough!
         - Paste logs into the backticks (``)
-        - If you'd like to share the full `renderer.log` file, please only do so by emailing it to us at `support@offlinecheatbreaker.com` and linking your issue in it to protect your privacy
+        - Please note that the launcher log file may include your system username. If thats something you don't want to share publicly, you can send the file to our support email (`support@offlinecheatbreaker.com`), or simply remove every mention of your system username manually
 
   - type: textarea
     attributes:
