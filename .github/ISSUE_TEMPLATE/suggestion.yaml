@@ -2,14 +2,13 @@ name: 💡 Suggestion
 description: Submit client/launcher suggestions/feature requests
 labels: [enhancement]
 body:
-
   - type: markdown
     attributes:
       value: |
         Thank you for suggesting a feature!
-        
+
         - Please run the game and try out all our existing features before suggesting a new one
-        - Please check if your suggestion was already suggested in another issue or [already exists ingame](https://mods.offlinecheatbreaker.com)
+        - Please check if your suggestion was already suggested in another issue or already exists ingame
         - Provide as many details as possible. Simply saying "I want X" or "Add X" isn't enough!
 
   - type: dropdown

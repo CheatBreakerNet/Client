@@ -6,12 +6,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for reporting a bug on Offline CheatBreaker!
+        Thank you for reporting a bug on CheatBreaker!
         
-        - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://offlinecheatbreaker.com/self-diagnostics)
+        - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://cheatbreaker.net/self-diagnostics)
         - Provide as many details as possible. Simply saying "X crashes" or "X gives bug" isn't enough!
         - Paste logs into the backticks (``)
-        - Please note that the launcher log file may include your system username. If thats something you don't want to share publicly, you can send the file to our support email (`support@offlinecheatbreaker.com`), or simply remove every mention of your system username manually
+        - Please note that the launcher log file may include your system username. If thats something you don't want to share publicly, you can send the file to our support email (`support@cheatbreaker.net`), or simply remove every mention of your system username manually
 
   - type: textarea
     attributes:
@@ -45,10 +45,10 @@ body:
       label: Environment
       description: |
         examples:
-          - **OS**: macOS 13.2.1
+          - **OS**: macOS 13.3.1
           - **Game version**: 1.7.10
           - **Game build number**: 32617e9
-          - **Launcher version**: 2.2.5
+          - **Launcher version**: 2.3.4
           - **JRE version**: 8u111
       value: |
           OS: 

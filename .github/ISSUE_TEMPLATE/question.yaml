@@ -1,13 +1,12 @@
 name: ❔ Question
-description: Have a question about Offline CheatBreaker?
+description: Have a question about CheatBreaker?
 labels: [question]
 body:
-
   - type: markdown
     attributes:
       value: |
         Thank you for submitting a question!
-        
+
         - Please check if your question was already asked in another issue
         - Provide as many details as possible
 
