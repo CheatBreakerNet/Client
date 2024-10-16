@@ -8,7 +8,7 @@ body:
       value: |
         Thank you for reporting a bug on CheatBreaker!
         
-        - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://cheatbreaker.net/self-diagnostics)
+        - Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://docs.cheatbreaker.net/category/self-diagnostics)
         - Provide as many details as possible. Simply saying "X crashes" or "X gives bug" isn't enough!
         - Paste logs into the backticks (``)
         - Please note that the launcher log file may include your system username. If thats something you don't want to share publicly, you can send the file to our support email (`support@cheatbreaker.net`), or simply remove every mention of your system username manually
