@@ -20,7 +20,7 @@ body:
     validations:
       required: true
 
- - type: textarea
+  - type: textarea
     attributes:
       label: Keyword search
       description: Keywords you used to search for your issue
