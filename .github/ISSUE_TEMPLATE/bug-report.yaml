@@ -20,11 +20,30 @@ body:
     validations:
       required: true
 
+ - type: textarea
+    attributes:
+      label: Keyword search
+      description: Keywords you used to search for your issue
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Solutions tried
+      description: |
+        What did you do to try to solve the issue?
+
+        Use [Self Diagnostics page](https://docs.cheatbreaker.net/category/self-diagnostics) if you haven't tried anything.
+    validations:
+      required: true 
+
   - type: textarea
     attributes:
       label: Steps To Reproduce
       description: Steps to reproduce the behavior
       description: |
+        Don't know specifics? Just describe what you were doing prior to your issue.
+        
         examples:
           1. Go to '...'
           2. Click on '...'
@@ -57,6 +76,14 @@ body:
           Launcher version: 
           JRE version: 
       render: markdown
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Log file
+      description: |
+        View [how to get the log file](https://docs.cheatbreaker.net/self-diagnostics/overview)
     validations:
       required: true
 
