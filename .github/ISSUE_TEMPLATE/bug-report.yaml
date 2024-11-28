@@ -42,6 +42,8 @@ body:
       label: Steps To Reproduce
       description: Steps to reproduce the behavior
       description: |
+        There is no such thing as no steps to reproduce. Be specific.
+        
         Don't know specifics? Just describe what you were doing prior to your issue.
         
         examples:
