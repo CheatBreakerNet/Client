@@ -1,5 +1,9 @@
 on:
   workflow_dispatch:
+    inputs:
+      release_name:
+        description: 'Release Name'
+        required: true
 
 jobs:
   github-releases-to-discord:
@@ -16,3 +20,4 @@ jobs:
           footer_title: "Client Update"
           footer_icon_url: "https://cheatbreaker.net/v/images/logo-108.png"
           footer_timestamp: true
+          release_name: ${{ github.event.inputs.release_name }}
