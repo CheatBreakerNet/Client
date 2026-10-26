@@ -9,7 +9,7 @@ body:
         Thank you for reporting a bug on CheatBreaker!
 
         # Before you proceed!
-        Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://docs.cheatbreaker.net/category/self-diagnostics)
+        Please check if your issue was addressed already in another issue or on our [Self Diagnostics page](https://docs.cheatbreaker.net/self-diagnostics/overview)
   - type: textarea
     attributes:
       label: Describe the issue
@@ -31,7 +31,7 @@ body:
       description: |
         What did you do to try to solve the issue?
 
-        Use [Self Diagnostics page](https://docs.cheatbreaker.net/category/self-diagnostics) if you haven't tried anything.
+        Use [Self Diagnostics page](https://docs.cheatbreaker.net/self-diagnostics/overview) if you haven't tried anything.
     validations:
       required: true 
 
@@ -64,11 +64,11 @@ body:
       label: Environment
       description: |
         examples:
-          - **OS**: macOS 13.3.1
+          - **OS**: macOS 27.0.1
           - **Game version**: 1.7.10
           - **Game build number**: 32617e9
-          - **Launcher version**: 2.3.4
-          - **JRE version**: 8u111
+          - **Launcher version**: 2026.10.0
+          - **JRE version**: 25
       value: |
           OS: 
           Game version: 
@@ -81,9 +81,11 @@ body:
 
   - type: textarea
     attributes:
-      label: Log file
+      label: Log files
       description: |
         View [how to get the log file](https://docs.cheatbreaker.net/self-diagnostics/overview)
+
+        Please provide both the `renderer.log` and `rendererOld.log` files (as files, do not copy and paste their contents)
 
         > [!NOTE]  
         > The launcher log file may include your system username. If thats something you don't want to share publicly, you can send the file to our support email (`support@cheatbreaker.net`), or simply remove every mention of your system username manually
